@@ -115,8 +115,9 @@ body {
 /* img config */
 #home-img {
     gap: 10px;
-    width: 80%;
+    width: 70%;
     align-items: center;
+    
 }
 .recomendacaoFoto {
     width: 30%;
